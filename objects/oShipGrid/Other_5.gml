@@ -1,0 +1,1 @@
+mp_grid_destroy(global.ship_grid);

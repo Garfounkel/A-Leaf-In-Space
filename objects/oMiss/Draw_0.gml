@@ -1,0 +1,1 @@
+Draw_text_color_outline(x, y, "miss", global.color.hpBg, 1, c_black, 1, 1, 20, 1, 1, 0)

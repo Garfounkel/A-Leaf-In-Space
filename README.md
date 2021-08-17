@@ -1,9 +1,9 @@
 # A Leaf In Space
-A Leaf In Space is a clone of Faster Than Light made in two weeks in Gamemaker for the OperaGX Gamejam.
+A Leaf In Space is a tribute game to Faster Than Light made in two weeks in Gamemaker for the OperaGX Gamejam.
 
 It can be played for free, directly in your browser at [A Leaf In Space](https://gamejolt.com/games/alip/637520) and a run only takes a few minutes so nothing's stopping you from giving it a try!
 
-![encounter](assets/Screenshot_2.png)
+https://user-images.githubusercontent.com/10576004/129777040-5b232d54-d921-441c-8bce-330670fd760c.mp4
 
 A small difference with FTL is that between each encounter you choose a reward between 3 different items, à la Slay The Spire.
 
